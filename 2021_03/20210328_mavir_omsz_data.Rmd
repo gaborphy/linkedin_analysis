@@ -1,0 +1,13 @@
+---
+title: "20210328_mavir_omsz_data"
+author: "Molnár Gábor"
+date: '2021 03 27 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readxl)
+```
+
