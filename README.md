@@ -6,7 +6,7 @@ From time to time, I will bring new data from open source or from sraped web dat
 
 |Date | Topic | Source| Analysis
 ---|---|---|:---:|
-2021-03-27| Daily energy consumtion vs. the weather in Hungary| MAVIR.hu and MET.hu open data| link |
+2021-03-27| Daily energy consumtion vs. the weather in Hungary| MAVIR.hu and MET.hu open data| [link]('../2021_03/20210328_mavir_omsz_data.Rmd') |
 
 
 
